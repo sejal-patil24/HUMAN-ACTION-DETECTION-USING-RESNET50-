@@ -11,15 +11,16 @@ MobileNet
 VGG16
 EfficientNetB7
 MobileNet achieved the best accuracy among all the models.
+
 Challenges Addressed
 During the project, several challenges were tackled, including:
-
 Handling occlusion (where parts of a person are blocked or hidden).
 Dealing with lighting variations across the dataset.
+
 Future Improvements
 To further improve the results, the following can be worked on:
-
 Enhance the dataset quality by increasing diversity and size.
 Optimize the model further to achieve better accuracy and speed.
+
 Results
 The comparison showed that while ResNet50 performed well, MobileNet achieved the highest accuracy, making it more suitable for this task.

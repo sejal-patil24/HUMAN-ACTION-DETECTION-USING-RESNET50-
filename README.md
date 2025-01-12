@@ -1,7 +1,7 @@
 # HUMAN-ACTION-DETECTION-USING-RESNET50-
 This project focuses on detecting human actions from images using a deep learning model based on ResNet50. Below are the details about the project, its results, and future scope.
 
-#Overview
+Overview
 The goal of this project is to build a model that can identify various human actions from images. It uses a custom dataset of 18,000 samples, and ResNet50 was the primary architecture chosen for the task.
 
 Key Features
